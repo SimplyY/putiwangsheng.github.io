@@ -1,0 +1,231 @@
+body {
+    background-color: #000000;
+    /*background-color: #22c3aa;*/
+    color: #ffffff;
+    margin: auto;
+    width: 100%;
+}
+
+p {
+    font-family: kaiti;
+    font-size: 1.2em;
+}
+
+.title {
+    text-align: center;
+    margin-top: -50px;
+}
+
+.title h1 {
+    font-family: fate;
+    font-size: 8.5em;
+}
+
+.sword {
+    text-align: center;
+    position: relative;
+    margin-top: -175px;
+}
+
+.fate_zero {
+    position: relative;
+    left: 28%;
+    top: 120px;
+    width: 10%;
+    font-family: fatezero;
+}
+
+.fate_staynight {
+    position: relative;
+    left: 52%;
+    top: 110px;
+    width: 30%;
+    font-family: fatezero;
+}
+
+.sword img {
+    clear: both;
+    display: block;
+    margin: auto;
+}
+
+.zero_logo {
+    margin-top: 100px;
+}
+
+.zero_logo img {
+    clear: both;
+    display: block;
+    margin: auto;
+}
+
+.zero_content {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    left: 14.5%;
+    top: 50px;
+    width: 40%;
+}
+
+.intro {
+    position: absolute;
+    left: 70px;
+    text-shadow: 3px 2px 2px #f2606f;
+}
+
+.zero_list {
+    position: absolute;
+    left: 70px;
+    top: 70px;
+}
+
+.zero_item {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    box-shadow: 0 0 20px #ffffff;
+    margin-bottom: 12px;
+}
+
+.saber {
+    transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+}
+
+.content1 {
+    width: 100%;
+    position: relative;
+    left: -40%;
+}
+
+.stay_night_logo img {
+    clear: both;
+    display: block;
+    margin: auto;
+}
+
+.stay_night_logo {
+    margin-top: 170px;
+    margin-bottom: -40px;
+}
+
+.sn_content {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    position: relative;
+    left: 15%;;
+    top: 30px;
+}
+
+.content2 {
+    width: 100%;
+    position: relative;
+    left: -45%;
+}
+
+.lz_img {
+    border-bottom: 2.5px solid #f2606f;
+    position: relative;
+    width: 60%;
+    left: 16%;
+    margin-top: 25px;
+    margin-bottom: -25px;
+}
+
+.lz_img img {
+    max-width: 70px;
+    _width: expression(this.width>70?"70px":this.width);
+    max-height: 70px;
+    _height: expression(this.height>70?"70px":this.height);
+    position: relative;
+    left: 93%;
+}
+
+.lz_img p {
+    position: relative;
+    bottom: -55px;
+}
+
+.subtitle h1 {
+    font-family: xingkai;
+    font-size: 3em;
+    display: inline-block;
+    width: 25px;
+    margin-left: 30px;
+    margin-top: 28px;
+}
+
+.st2 {
+    position: relative;
+    top: 40px;
+}
+
+.sn_bottom {
+    width: 61%;
+    position: relative;
+    left: 15.5%;
+    top: 50px;
+    border-bottom: 2.5px solid #f2606f;
+}
+
+.sn_list {
+    width: 35%;
+    position: relative;
+    left: 79%;
+    top: 8px;
+}
+
+.sn_item {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    box-shadow: 0 0 20px #ffffff;
+    margin-bottom: 12px;
+}
+
+.thelast {
+    margin-top: 200px;
+}
+
+.lin_lingzhou{
+    position: relative;
+    width: 30%;
+    left: 18%;
+}
+
+.lin_lingzhou p{
+    display: inline-block;
+    position: relative;
+    width: 5%;
+    font-size: 1.5em;
+}
+
+.p1{
+    transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    top: -88px;
+    left: 22.5%;
+}
+
+.p2{
+    top: -110px;
+    left: 23%;
+}
+
+.p4{
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    top: -88px;
+    left: 23%;
+}
+
+
+
